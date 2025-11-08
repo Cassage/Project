@@ -1,0 +1,4 @@
+# Project exclude paths
+/languages/NewLanguage/classes_gen/
+/languages/NewLanguage/generator/classes_gen/
+/languages/NewLanguage.sandbox/classes_gen/
